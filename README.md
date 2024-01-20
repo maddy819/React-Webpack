@@ -7,7 +7,7 @@ npm install
 npm run build
 
 ## Run App on Local
-npm run serve
+npm start
 
 ## License
 [ISC](https://choosealicense.com/licenses/isc/)
